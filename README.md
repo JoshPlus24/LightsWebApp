@@ -1,2 +1,0 @@
-# LightsWebApp
-Created with CodeSandbox
